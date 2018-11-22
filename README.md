@@ -1,3 +1,3 @@
-![](verziehen.GIF)
+![](verziehen.gif)
 
 Must supply your own copy of Helvetica in the bin/data directory of an openFrameworks project.
